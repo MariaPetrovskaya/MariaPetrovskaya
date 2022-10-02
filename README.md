@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariaPetrovskaya, HR, master of Psychology
+- 👋 Hi, I’m @MariaPetrovskaya, HR, master of Psychology, IT recruiter
 - 👀 I’m interested in automatisation of psychological testing, psychosemantics, chatbots 
 - 🌱 I’m currently learning DS, Python, Blockchain 
 - 💞️ I’m looking to collaborate on ...
