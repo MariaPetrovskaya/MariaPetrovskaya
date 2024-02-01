@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaPetrovskaya, master of Psychology, specialization - development of tests, psycholinguistics
 - 👀 I’m interested in NLP, automatisation of verbal testing, psychosemantics, chatbots 
-- 🌱 I’m currently learning ML, DS, Python, Blockchain 
+- 🌱 I’m currently learning NLP, ML, DS, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.petrovskaya.ru, https://career.habr.com/mariapetrovskaya, [https://www.linkedin.com/in/marya-petrovskaya-b1371a190/](https://www.linkedin.com/in/maria-petrovskaya-b1371a190/) 
 
